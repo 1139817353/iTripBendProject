@@ -1,5 +1,6 @@
 package cn.ekgc.itrip.service.impl;
 
+import cn.ekgc.itrip.dao.HotelOrderDao;
 import cn.ekgc.itrip.dao.HotelRoomDao;
 import cn.ekgc.itrip.pojo.vo.HotelRoom;
 import cn.ekgc.itrip.pojo.vo.SearchHotelRoomVO;
